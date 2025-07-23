@@ -25,10 +25,9 @@
 
 ### 📫 Let's Connect
 
-- 💌 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(if you have one)*
-
+- 💌 Email: ffasra01@gmail.com | fasra@inforatech.io
+- 💼 LinkedIn: Fathima Fasra (https://www.linkedin.com/in/fathima-fasra)
+- 🌐 Portfolio: fasra-portfolio.netlify.app
 ---
 
 ### 💬 Fun Fact
