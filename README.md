@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Laraval-yellow?style=flat&logo=laraval" />
 </p>
 
 ---
